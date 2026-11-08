@@ -49,20 +49,14 @@ const HalfSweater = {
 <tr>
 <td><a href="#"><img src="./assets/project1.svg" width="330" height="180"/></a></td>
 <td><a href="#"><img src="./assets/project2.svg" width="330" height="180"/></a></td>
+<td><a href="#"><img src="./assets/project3.svg" width="330" height="180"/></a></td>
+<td><a href="#"><img src="./assets/project4.svg" width="330" height="180"/></a></td>
 </tr>
 </table>
 </div>
 
 > [!NOTE]
 > Some of my best projects live in separate repositories — check my pinned repos!
-
-## ☕ Support Me
-If you would like to support me or any of my projects, you can donate here:
-
-| Method | Address |
-| ------ | ------- |
-| **Bitcoin** | `your-address-here` |
-| **Ethereum** | `your-address-here` |
 
 <details open>
 <summary><a name="certificates"></a><h2>🏆 Certificates & Awards</h2></summary>
