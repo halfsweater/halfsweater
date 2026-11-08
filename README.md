@@ -3,7 +3,7 @@
     <img width=300 src="./assets/main.gif"/>
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+HalfBlanket!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+HalfSweater!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-Discord-f5c2e7?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
     <a href="mailto:unifiedsamar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-cba6f7?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
     <br>
-    <a href="https://mynickname.com/id1848211"><img src="https://mynickname.com/img.php?id=1848211&sert=1" alt="Certificate for nickname halfsweater is registered to: https://halfsweater.site" border="0" /></a><br /><a href="https://mynickname.com/tags/games">Nicknames for games</a>
+    <a href="https://mynickname.com/id1848211"><img src="https://mynickname.com/img.php?nick=halfsweater&sert=2&text=t4" alt="Nickname halfsweater is registered!" border="0" /></a>
 </div>
 
 ## 👻 A little about me...
@@ -25,7 +25,7 @@ I am a **Software Developer** who loves building things and learning something n
 Currently I am working on personal projects and exploring new technologies.
 
 ```javascript
-const HalfBlanket = {
+const HalfSweater = {
     OS: ["Windows 11"],
     languages: {
         highLevel: ["Python"],
