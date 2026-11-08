@@ -61,12 +61,14 @@ const HalfSweater = {
 > Some of my best projects live in separate repositories — check my pinned repos!
 
 <details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=halfsweater&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=halfsweater&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=halfsweater&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://komarev.com/ghpvc/?username=halfsweater&label=Profile%20Views&style=flat&color=cba6f7" /></summary>
 	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfsweater&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=halfsweater&show_icons=true&theme=transparent"/>
+	    <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halfsweater&theme=nord_dark"/>
+	    <img alt="Contribution Graph" src="https://ghchart.rshah.org/cba6f7/halfsweater"/>
+	    <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=halfsweater&theme=transparent&hide_border=true"/>
+	    <br>
+	    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=halfsweater&layout=compact&theme=transparent"/>
+	    <img src="https://github-readme-stats-fast.vercel.app/api?username=halfsweater&show_icons=true&theme=transparent"/>
 	</div>
 </details>
 
