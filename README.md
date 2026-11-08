@@ -17,7 +17,7 @@
 </div>
 
 ## 👻 A little about me...
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YOUR_GITHUB_USERNAME&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=halfsweater&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 I am a **Software Developer** who loves building things and learning something new every day.
 <!-- Rewrite this paragraph: what you do, what you are proud of, what you are studying now -->
