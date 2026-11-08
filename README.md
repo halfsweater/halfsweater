@@ -26,16 +26,16 @@ Currently I am working on personal projects and exploring new technologies.
 
 ```javascript
 const HalfSweater = {
-    OS: ["Windows 11"],
+    OS: ["HalfSweater 67"],
     languages: {
-        highLevel: ["Python"],
+        highLevel: ["Rust", "Go"],
         averageLevel: ["JavaScript"],
         baseLevel: ["C", "Bash"]
     },
     programming: {
         backend: ["FastAPI", "Flask"],
         frontend: ["HTML", "CSS"],
-        databases: ["PostgreSQL", "SQLite"],
+        databases: ["PostgreSQL", "SQLite", "MySQL"],
         devOps: ["Docker", "Git"]
     },
     UI_UX: ["Figma"],
