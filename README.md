@@ -47,8 +47,8 @@ const HalfSweater = {
 <div align="center">
 <table>
 <tr>
-<td><a href="#"><img src="./assets/project1.png" width="330" height="180"/></a></td>
-<td><a href="#"><img src="./assets/project2.png" width="330" height="180"/></a></td>
+<td><a href="#"><img src="./assets/project1.svg" width="330" height="180"/></a></td>
+<td><a href="#"><img src="./assets/project2.svg" width="330" height="180"/></a></td>
 </tr>
 </table>
 </div>
