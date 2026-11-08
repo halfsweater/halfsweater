@@ -61,13 +61,6 @@ const HalfSweater = {
 > Some of my best projects live in separate repositories — check my pinned repos!
 
 <details open>
-<summary><a name="certificates"></a><h2>🏆 Certificates & Awards</h2></summary>
-    <div align="center">
-        <!-- <img src="./assets/certificates/example.png" width=200 alt=""/> -->
-    </div>
-</details>
-
-<details open>
 <summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
     <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_GITHUB_USERNAME&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
