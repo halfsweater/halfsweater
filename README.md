@@ -61,12 +61,12 @@ const HalfSweater = {
 > Some of my best projects live in separate repositories — check my pinned repos!
 
 <details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=halfblanket&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=halfblanket&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_GITHUB_USERNAME&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=halfsweater&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+    <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=halfsweater&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=halfsweater&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfblanket&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=halfblanket&show_icons=true&theme=transparent"/>
+	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfsweater&layout=compact&theme=transparent"/>
+	    <img src="https://github-readme-stats.vercel.app/api?username=halfsweater&show_icons=true&theme=transparent"/>
 	</div>
 </details>
 
