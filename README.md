@@ -1,21 +1,84 @@
-<h1 align="center">Hi 👋, I'm HalfSweater</h1>
-<h3 align="center">A developer from Nepal</h3>
+<div align="center">
+    <!-- Put a gif/image at ./assets/main.gif (or delete this line) -->
+    <img width=300 src="./assets/main.gif"/>
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+HalfBlanket!" alt="Typing SVG" /></a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halfsweater&label=Profile%20views&color=0e75b6&style=flat" alt="halfsweater" /> </p>
+<div align="center">
+    <!-- Replace the # links with your own profiles; delete the ones you don't use -->
+    <a href="#"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Discord-f5c2e7?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+    <a href="mailto:unifiedsamar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-cba6f7?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
+    <br>
+    <a href="https://mynickname.com/id1848211"><img src="https://mynickname.com/img.php?id=1848211&sert=1" alt="Certificate for nickname halfsweater is registered to: https://halfsweater.site" border="0" /></a><br /><a href="https://mynickname.com/tags/games">Nicknames for games</a>
+</div>
 
-- 🔭 I’m currently working on **Elvrix**
+## 👻 A little about me...
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YOUR_GITHUB_USERNAME&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-- 👨‍💻 All of my projects are available at [https://halfsweater.site](https://halfsweater.site)
+I am a **Software Developer** who loves building things and learning something new every day.
+<!-- Rewrite this paragraph: what you do, what you are proud of, what you are studying now -->
 
-- 💬 Ask me about **Go, C**
+Currently I am working on personal projects and exploring new technologies.
 
-- 📫 How to reach me **unifiedsamar@gmail.com**
+```javascript
+const HalfBlanket = {
+    OS: ["Windows 11"],
+    languages: {
+        highLevel: ["Python"],
+        averageLevel: ["JavaScript"],
+        baseLevel: ["C", "Bash"]
+    },
+    programming: {
+        backend: ["FastAPI", "Flask"],
+        frontend: ["HTML", "CSS"],
+        databases: ["PostgreSQL", "SQLite"],
+        devOps: ["Docker", "Git"]
+    },
+    UI_UX: ["Figma"],
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/halfsweater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="halfsweater" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samar-maharjan-53364a357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samar-maharjan-53364a357" height="30" width="40" /></a>
-</p>
+## 🏢 My Projects (Clickable)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+<table>
+<tr>
+<td><a href="#"><img src="./assets/project1.png" width="330" height="180"/></a></td>
+<td><a href="#"><img src="./assets/project2.png" width="330" height="180"/></a></td>
+</tr>
+</table>
+</div>
+
+> [!NOTE]
+> Some of my best projects live in separate repositories — check my pinned repos!
+
+## ☕ Support Me
+If you would like to support me or any of my projects, you can donate here:
+
+| Method | Address |
+| ------ | ------- |
+| **Bitcoin** | `your-address-here` |
+| **Ethereum** | `your-address-here` |
+
+<details open>
+<summary><a name="certificates"></a><h2>🏆 Certificates & Awards</h2></summary>
+    <div align="center">
+        <!-- <img src="./assets/certificates/example.png" width=200 alt=""/> -->
+    </div>
+</details>
+
+<details open>
+<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+    <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_GITHUB_USERNAME&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+	<div align="center">
+	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent"/>
+	    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent"/>
+	</div>
+</details>
+
+---
