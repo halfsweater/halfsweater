@@ -49,8 +49,10 @@ const HalfSweater = {
 <tr>
 <td><a href="#"><img src="./assets/project1.svg" width="330" height="180"/></a></td>
 <td><a href="#"><img src="./assets/project2.svg" width="330" height="180"/></a></td>
+</tr>
+<tr>
 <td><a href="#"><img src="./assets/project3.svg" width="330" height="180"/></a></td>
-<td><a href="#"><img src="./assets/project4.svg" width="330" height="180"/></a></td>
+<td><a href="#"><img src="./assets/project4.svg" width="330" height="180"/></a></td>	
 </tr>
 </table>
 </div>
